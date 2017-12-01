@@ -1,0 +1,32 @@
+header {}
+
+header a {
+    text-decoration: none;
+    color: #f5830b;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.buscar input {
+    margin-top: 10%;
+}
+
+#slider img {
+    width: 100%;
+}
+
+.banner {
+    background: linear-gradient(to right, white, #383838, #383838);
+}
+
+.info {
+    background-color: #383838;
+    color: #fff;
+}
+
+.info hr {
+    display: block;
+    background-color: #fff;
+    width: 80%;
+    margin-left: -1%;
+}
